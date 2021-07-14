@@ -1,4 +1,5 @@
-**Mikalai Brehid**
+**Mikalai Brehid**  
+        
 *E-mail* bregid69@gmail.com  
 
 *Telephone* +375291972008  
@@ -28,7 +29,7 @@ Gomel State Professional Lyceum of Instrument Engineering
 Electromechanic of trade and refrigeration equipment  
 
 ***Language skills:***
-        
+
 English - A2  
 
 
