@@ -1,10 +1,10 @@
-**Mikalai Brehid**  
+***Mikalai Brehid***  
         
-*E-mail* bregid69@gmail.com  
+**E-mail** bregid69@gmail.com  
 
-*Telephone* +375291972008  
+**Telephone** +375291972008  
 
-*Telegram* t.me/VoidPowerS  
+**Telegram** t.me/VoidPowerS  
 
 ---
 ***About me***
@@ -15,8 +15,10 @@ My strong point is faster material search.
 
 ***Hard skills:***  
 * Basic theory and practice of HTML&CSS page layout;  
-* Knowledge about ethernet technology (DNS, Proxy, VPN, ipconfig, ADSL-line config);  
-* Pre-Basic JS (planning to develop knowledge in this sphere);  
+* Knowledge about ethernet technology (DNS, Proxy, VPN, 
+ipconfig, ADSL-line config);  
+* Pre-Basic JS (planning to develop knowledge in this 
+sphere);  
 * Basic Linux knowledge;  
 
 
@@ -24,9 +26,7 @@ My strong point is faster material search.
 
 Gomel State Professional Lyceum of Instrument Engineering  
 
-- 2011-2013  
-
-Electromechanic of trade and refrigeration equipment  
+ - 2011-2013  Electromechanic of trade and refrigeration equipment  
 
 ***Language skills:***
 
