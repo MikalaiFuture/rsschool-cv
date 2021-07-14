@@ -1,10 +1,11 @@
-**Mikalai Brehid**
+***Mikalai Brehid***
 
-*E-mail* bregid69@gmail.com
+**E-mail** bregid69@gmail.com
 
-*Telephone* +375291972008
+**Telephone** +375291972008
 
-*Telegram* t.me/VoidPowerS    
+**Telegram** t.me/VoidPowerS  
+
 ---
 ***About me***
 ---
