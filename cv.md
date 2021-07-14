@@ -4,11 +4,13 @@
 
 **Telephone** +375291972008
 
-**Telegram** t.me/VoidPowerS    
----
-***About me***
----
+**Telegram** @VoidPowerS    
 
+
+------
+***About me***
+-------
+-------
 My goal is convert my free time into results and achieve new goals. Interesing theme about ethernet technology.
 
 My strong point is faster material search.
