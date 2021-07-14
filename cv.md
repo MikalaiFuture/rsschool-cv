@@ -5,7 +5,6 @@
 **Telephone** +375291972008
 
 **Telegram** t.me/VoidPowerS  
-
 ---
 ***About me***
 ---
