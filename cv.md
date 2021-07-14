@@ -17,12 +17,20 @@ My strong point is faster material search.
 * Knowledge about ethernet technology (DNS, Proxy, VPN, ipconfig, ADSL-line config);  
 * Pre-Basic JS (planning to develop knowledge in this sphere);  
 * Basic Linux knowledge;  
-Education:  
+
+
+***Education:***  
+
 Gomel State Professional Lyceum of Instrument Engineering  
+
 - 2011-2013  
+
 Electromechanic of trade and refrigeration equipment  
-Language skills:  
+
+***Language skills:***
+
 English - A2  
+
 
     ```//javascript
             const multiple = (a, b) => {
