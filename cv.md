@@ -1,4 +1,4 @@
-**Mikalai Brehid**
+***Mikalai Brehid***
 
 **E-mail** bregid69@gmail.com
 
