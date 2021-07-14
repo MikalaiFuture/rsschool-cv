@@ -28,7 +28,7 @@ Gomel State Professional Lyceum of Instrument Engineering
 Electromechanic of trade and refrigeration equipment  
 
 ***Language skills:***
-
+        
 English - A2  
 
 
